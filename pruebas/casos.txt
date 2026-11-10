@@ -1,0 +1,85 @@
+1. Mochila - ejemplo 1
+Entrada:
+1
+3
+50
+60 10
+100 20
+120 30
+0
+Resultado esperado: Valor total: 240.00
+
+2. Mochila - ejemplo 2
+Entrada:
+1
+3
+25
+80 20
+100 10
+120 30
+0
+Resultado esperado: Valor total: 160.00
+
+3. Mochila - capacidad cero
+Entrada:
+1
+2
+0
+60 10
+100 20
+0
+Resultado esperado: Valor total: 0.00
+
+4. Mochila - objeto gratuito
+Entrada:
+1
+2
+0
+50 0
+90 10
+0
+Resultado esperado: Valor total: 50.00
+
+5. Antenas - ejemplo 1
+Entrada:
+2
+7
+5
+1 2 7 11 20 21 30
+0
+Resultado esperado: Cantidad total de antenas: 2
+
+6. Antenas - ejemplo 2
+Entrada:
+2
+6
+3
+2 4 8 15 18 22
+0
+Resultado esperado: Cantidad total de antenas: 3
+
+7. Antenas - posiciones desordenadas y repetidas
+Entrada:
+2
+6
+2
+9 -1 2 9 -1 1
+0
+Resultado esperado: Cantidad total de antenas: 2
+
+8. Antenas - rango cero
+Entrada:
+2
+5
+0
+3 1 3 5 1
+0
+Resultado esperado: Cantidad total de antenas: 3
+
+9. Antenas - sin casas
+Entrada:
+2
+0
+5
+0
+Resultado esperado: Cantidad total de antenas: 0
